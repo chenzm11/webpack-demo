@@ -1,0 +1,1 @@
+(self.webpackChunkcodesplitting=self.webpackChunkcodesplitting||[]).push([[957],{717:(e,n,o)=>{"use strict";o.r(n),o.d(n,{foo:()=>i});var c=o(486),l=o.n(c),s=o(294),t=o(935);function i(){return"hello webpack"}console.log(l(),s,t)}}]);
